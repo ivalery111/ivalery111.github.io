@@ -125,6 +125,7 @@ root@...:.../UEFI#
 - [start.elf](https://github.com/raspberrypi/firmware/blob/master/boot/start.elf)
 - [miniuart-bt.dtbo](https://github.com/raspberrypi/firmware/blob/master/boot/overlays/miniuart-bt.dtbo)
 - config.txt  
+
 Эти файлы находятся в `binaries/pre-build/rpi3`
 
 ### Разметка флеш карты и запись прошивки
