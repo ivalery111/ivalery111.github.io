@@ -148,5 +148,6 @@ UEFI$ sudo umount /mnt
 - Плохая флеш карта
 
 # Полезные ссылки
+- [Репозиторий с кодом](https://github.com/ivalery111/UEFI)
 - [Raspberry Pi Firmware](https://github.com/raspberrypi/firmware)
 - [Raspberry Pi Platform](https://github.com/tianocore/edk2-platforms/tree/master/Platform/RaspberryPi/RPi3)
