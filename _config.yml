@@ -1,15 +1,7 @@
-title: "ivalery111.github.io"
-description: ""
-url: "https://ivalery111.github.io"
-
 header_pages:
-  - index.md
-  - about.md
+ - index.md
 
-style: dark
-
-footer: "2023"
-
-# Build settings
 markdown: kramdown
-remote_theme: b2a3e8/jekyll-theme-console
+
+plugins:
+  - jekyll-seo-tag
