@@ -1,31 +1,15 @@
-title: Yet Another Blog
-description: "Yet Another Blog about Software Development"
-author:
-  name: "Valery Ivanov"
-  email: "ivalery111[YouKnow]gmail.com"
+title: "ivalery111.github.io"
+description: ""
+url: "https://ivalery111.github.io"
 
-baseurl: /
+header_pages:
+  - index.md
+  - about.md
 
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 3
-paginate_path: /page/:num/
+style: dark
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+footer: "2023"
 
-future: true
-plugins:
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
-
-# Custom variables
-owner : "Valery Ivanov"
-year : "2021"
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
